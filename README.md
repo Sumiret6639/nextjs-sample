@@ -23,6 +23,7 @@
 
 - SWR （API loading 狀態、輪詢、cache 等方面的處理）
 - 登出後清空 store 和 persist
+- unit test with Jest
 
 ---
 
